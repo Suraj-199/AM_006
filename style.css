@@ -414,6 +414,7 @@
 	user-select: none;
 	-webkit-user-select: none;
 	touch-action: manipulation;
+z-index:99999999;
   }
   
   .button-53:focus {
